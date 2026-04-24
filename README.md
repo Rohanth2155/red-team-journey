@@ -31,7 +31,7 @@ April 2026
 ## 🚀 Progress
 
 I update this repository daily with hands-on labs, notes, and real practice.
-## 📅 Day 1 – Lab Setup Completed
+## 📅 Day 1-2 – Lab Setup Completed
 
 ### 🧱 Environment
 
@@ -101,4 +101,9 @@ Windows cannot find Microsoft Software License Terms
 * Service enumeration
 * Start vulnerability labs
 
+## 📅 Progress Log
 
+### Day 3-4
+- Learned Linux command line basics
+- Practiced file operations, process management, networking commands
+- Created linux/cheatsheet.md
