@@ -1,109 +1,169 @@
-# 👨‍💻 Red Team Journey – Rohanth Nadendla
+# 🔴 Red Team Journey – Rohanth Nadendla
+
+## 👨‍💻 About Me
+
+Aspiring **Red Team Engineer** focused on offensive security, penetration testing, and adversary simulation.
+Currently building hands-on skills through labs, real-world scenarios, and continuous learning.
+
+---
 
 ## 🎯 Goal
 
-I am working towards becoming a Red Team Engineer with strong skills in offensive security, penetration testing, and real-world attack simulation.
+To become a **job-ready Red Team / Offensive Security professional** with strong expertise in:
+
+* Web Application Security
+* Network Exploitation
+* Active Directory Attacks
+* Post-Exploitation & Red Team Operations
+
+---
 
 ## 📅 Start Date
 
-April 2026
+**April 2026**
+
+---
 
 ## 🛣️ Learning Roadmap
 
-* Linux Fundamentals
-* Networking Basics
-* Web Exploitation (XSS, SQLi, SSRF, etc.)
-* Privilege Escalation
-* Active Directory Attacks
-* Red Team Operations
+* 🐧 Linux Fundamentals
+* 🌐 Networking Basics
+* 🌍 Web Exploitation (XSS, SQLi, SSRF, etc.)
+* 🔓 Privilege Escalation
+* 🏢 Active Directory Attacks
+* 🎯 Red Team Operations
+
+---
 
 ## 📂 Repository Structure
 
-* `/setup` – Lab setup and environment configuration
-* `/linux` – Linux commands, labs, and notes
-* `/networking` – Networking concepts and tools
-* `/recon` – Information gathering techniques
-* `/web` – Web vulnerabilities and practice
-* `/exploitation` – Exploitation techniques
-* `/writeups` – Lab reports and walkthroughs
-* `/projects` – Tools and scripts I build
+```
+/setup           → Lab setup & configurations
+/linux           → Linux commands & notes
+/networking      → Networking concepts & analysis
+/recon           → Information gathering techniques
+/web             → Web vulnerabilities practice
+/exploitation    → Exploitation techniques
+/writeups        → Lab walkthroughs
+/projects        → Custom tools & scripts
+```
 
-## 🚀 Progress
+---
 
-I update this repository daily with hands-on labs, notes, and real practice.
-## 📅 Day 1-2 – Lab Setup Completed
+## 📊 Progress Tracker
 
-### 🧱 Environment
+### ✅ Day 1 – Lab Setup Completed
+
+**Environment:**
 
 * Windows Server 2019 (Target)
 * Kali Linux (Attacker)
 
----
+**Tasks Performed:**
 
-### 🔧 Tasks Done
-
-* Installed Windows Server
-* Installed Kali Linux
+* Installed Windows Server & Kali Linux
+* Fixed installation issues (license error)
 * Configured VM manually (disabled Easy Install)
-* Fixed installation error (license issue)
-* Connected both machines (NAT)
+* Established network connectivity (NAT)
 
----
+**Recon:**
 
-### 🔍 Recon (First Scan)
-
-```bash
+```
 nmap -sS -sV -A <target-ip>
 ```
 
-### 📌 Result
+**Key Outcomes:**
 
-* Open ports discovered
-* Services identified
-* OS detection working
+* Discovered open ports
+* Identified running services
+* Performed OS detection
 
----
+**Issues Faced & Fix:**
 
-### ❌ Issue Faced
+* Windows license error
+  ✔ Fixed by:
+* Re-downloading ISO
+* Increasing RAM (4GB)
+* Manual ISO attachment
 
-**Error:**
-Windows cannot find Microsoft Software License Terms
-
-**Fix:**
-
-* Re-downloaded ISO
-* Disabled Easy Install
-* Increased RAM to 4GB
-* Attached ISO manually
-
----
-
-### 📸 Evidence
-
-![Server Manager](setup/windows/server-manager.png)
-![Kali Terminal](setup/kali/kali-terminal.png)
-![Ping Test](networking/ping-test.png)
-![Nmap Scan](recon/nmap-scan.png)
-
----
-
-### 📚 Learning
+**Learning:**
 
 * VM setup & troubleshooting
 * Basic networking (IP, ping)
-* Nmap scanning basics
+* Nmap fundamentals
 
 ---
 
-### 🚀 Next
+### ✅ Day 3 – Linux Command Line Basics
 
-* Deep Nmap scanning
-* Service enumeration
-* Start vulnerability labs
+**Topics Covered:**
 
-## 📅 Progress Log
+* File operations (ls, cd, cp, mv, rm)
+* File viewing (cat)
+* Search commands (find, grep)
+* Permissions (chmod, chown)
+* Process monitoring (ps aux)
+* Networking commands (ip a, netstat)
 
-### Day 3-4
-- Learned Linux command line basics
-- Practiced file operations, process management, networking commands
-- Created linux/cheatsheet.md
+**Work Done:**
+
+* Practiced commands in Kali Linux
+* Created structured notes
+
+📄 Notes: `/linux/cheatsheet.md`
+
+**Learning:**
+
+* Strong foundation in Linux CLI
+* Understanding system navigation & processes
+
+---
+
+## 🚀 Current Focus
+
+* Linux mastery
+* Command-line efficiency
+* Building strong fundamentals
+
+---
+
+## 📈 Daily Updates
+
+This repository is updated **daily** with:
+
+* Hands-on labs
+* Notes & cheat sheets
+* Practical attack simulations
+
+---
+
+## 🎯 Next Steps
+
+* Deep Linux practice
+* Bash scripting basics
+* Networking fundamentals (ports, protocols)
+
+---
+
+## 📌 Long-Term Plan
+
+* Complete 180-day Red Team roadmap
+* Build real-world projects
+* Contribute to bug bounty platforms
+* Prepare for certifications (e.g., OSCP)
+
+---
+
+## ⭐ Why This Repo Matters
+
+This repository serves as:
+
+* A **portfolio of my skills**
+* A **proof of consistency**
+* A **documentation of real hands-on learning**
+
+---
+
+## 🔗 Connect With Me
+
+(Add LinkedIn/GitHub later)
