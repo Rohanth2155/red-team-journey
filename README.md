@@ -163,7 +163,3 @@ This repository serves as:
 * A **documentation of real hands-on learning**
 
 ---
-
-## 🔗 Connect With Me
-
-(Add LinkedIn/GitHub later)
