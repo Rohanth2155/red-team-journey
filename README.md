@@ -52,7 +52,7 @@ To become a **job-ready Red Team / Offensive Security professional** with strong
 
 ## 📊 Progress Tracker
 
-### ✅ Day 1 – Lab Setup Completed
+### ✅ Day 1 & 2 – Lab Setup Completed
 
 **Environment:**
 
