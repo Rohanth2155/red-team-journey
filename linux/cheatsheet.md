@@ -31,3 +31,28 @@
 
 ## Notes
 Practiced commands in Kali Linux VM.
+
+## Day 4 – Advanced Linux
+
+### System Info
+- whoami → current user
+- id → user details
+- uname -a → system info
+
+### Process Management
+- ps aux → running processes
+- top → real-time monitoring
+- kill -9 PID → kill process
+
+### Search & Enumeration
+- find / -name file → find files
+- grep -r "text" /dir → search content
+- locate → quick search
+
+### Networking
+- ss -tulnp → open ports
+- netstat -antp → connections
+- ping → test connectivity
+
+### Notes
+Learned basic enumeration for hacking.
